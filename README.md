@@ -2,7 +2,13 @@
 <h3 align="center">🔐 Security Engineer | 🧩 CTF Player | 🐞 Bug Hunter | 🛡️ Tech Enthusiast | 🤖 AIML | 💻 Electronics</h3>
 <br>
 Welcome to my GitHub profile! I'm a passionate security engineer with a deep interest in discovering vulnerabilities, solving CTF challenges, and improving security practices across various domains.
-<br>
+<br> 
+
+<p align="right">
+  <a href="https://www.buymeacoffee.com/mi_thun" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif" width="480" height="269" alt="Gif from Giphy" />
